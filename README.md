@@ -1,7 +1,6 @@
 # amino-password-changer
 
-
-
+This repository contains a python script designed to perform some operations. which is you can change amino password without verifications
 ## Getting Started
 
 ### Installation
@@ -21,8 +20,6 @@ This project is licensed under the MIT License.
 This bot is intended for educational purposes only. The misuse of this bot may result in legal consequences. The author is not responsible for any misuse of this bot.
 
 ---
-
-**Note**: Replace `YOUR_KEY_HERE` with your key in 'config.json' file before running the script.
 
 ## Contributing
 
