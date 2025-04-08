@@ -1,0 +1,12 @@
+pymongo
+Flask
+requests
+times
+requests
+dnspython 
+scapy
+1secmail
+python-whois 
+pytube
+openai
+aiogram==2.25.2
